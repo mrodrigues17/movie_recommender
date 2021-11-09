@@ -3,3 +3,5 @@ Using data take from IMDb (https://datasets.imdbws.com/), I did some initial dat
  - UI file: controls user interface included the ability to select movie titles and the number of recommendations
  - Server file: creates the output for the Shiny application
  - data cleaning file: reads data from IMDb files and performs filtering and feature transformations
+
+The application is available here: https://maxrodrigues5591.shinyapps.io/Movie_Recommender/
